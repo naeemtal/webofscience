@@ -1,0 +1,1564 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Carrier, James G.
+TI Romancing the Wild: Cultural Dimensions of Ecotourism
+SO AMERICAN JOURNAL OF SOCIOLOGY
+VL 120
+IS 4
+BP 1280
+EP 1282
+DI 10.1086/679051
+PD JAN 2015
+PY 2015
+ZS 0
+ZB 0
+TC 0
+Z8 0
+ZA 0
+ZR 0
+Z9 0
+SN 0002-9602
+EI 1537-5390
+UT WOS:000353970900029
+ER
+
+PT J
+AU Pippert, Timothy
+TI Otherwise Homeless: Vehicle Living and the Culture of Homelessness
+SO AMERICAN JOURNAL OF SOCIOLOGY
+VL 120
+IS 4
+BP 1283
+EP 1285
+DI 10.1086/678959
+PD JAN 2015
+PY 2015
+ZB 0
+Z8 0
+TC 0
+ZR 0
+ZS 0
+Z9 0
+SN 0002-9602
+EI 1537-5390
+UT WOS:000353970900030
+ER
+
+PT J
+AU Celarent, Barbara
+TI Christianity, Islam and the Negro Race
+SO AMERICAN JOURNAL OF SOCIOLOGY
+VL 120
+IS 4
+BP 1285
+EP 1293
+DI 10.1086/681571
+PD JAN 2015
+PY 2015
+TC 0
+ZS 0
+ZB 0
+Z8 0
+ZR 0
+Z9 0
+SN 0002-9602
+EI 1537-5390
+UT WOS:000353970900031
+ER
+
+PT J
+AU Nickerson, David W.
+TI Do Voter Registration Drives Increase Participation? For Whom and When?
+SO JOURNAL OF POLITICS
+VL 77
+IS 1
+BP 88
+EP 101
+DI 10.1086/678391
+PD JAN 2015
+PY 2015
+AB Most people interested in participating in the electoral process are
+   registered to vote. This self-selection process creates two empirical
+   puzzles. First, it is unclear whether voter registration drives
+   introduce new voters into the electorate or simply facilitate a
+   bureaucratic transaction that people registering would accomplish via
+   other means in the absence of the drive. Second, estimating the causal
+   effect of registration on turnout is difficult because the act of
+   selection signals political interest and engagement that is correlated
+   with turnout. This article utilizes field experiments to answer these
+   two questions and the second question of the type of person mobilized by
+   registration drives. 1 Across six cities, 620 streets were randomly
+   assigned to receive face-to-face visits encouraging voter registration
+   or a control group that received no attention from the campaign. On
+   average, 10 more newly registered people appeared on treatment streets
+   than control streets-an increase of 4.4%. This suggests that
+   registration is a burden for a portion of the eligible population.
+   Comparing the number of ballots cast by newly registered voters,
+   treatment streets averaged two more votes than control streets. That is,
+   24% of the people registered as a direct result of the experiment voted.
+   Disaggregating the results by socioeconomic status, the increase in
+   registration is largest on relatively poor streets, but this difference
+   is counterbalanced by higher turnout among new registrants on relatively
+   affluent streets. Thus, the results of these six experiments suggest
+   that electoral reforms reducing the costs associated with voter
+   registration will assist a nontrivial portion of the electorate but not
+   alter the overall composition of the electorate.
+OI Nickerson, David/0000-0001-6383-9418
+ZA 0
+Z8 0
+ZS 1
+ZB 0
+TC 22
+ZR 0
+Z9 22
+SN 0022-3816
+EI 1468-2508
+UT WOS:000350337600012
+ER
+
+PT J
+AU Ahmed, Amel
+TI Review Essay: The Politics of History and the History of Economic
+   Development
+SO JOURNAL OF POLITICS
+VL 77
+IS 1
+BP 299
+EP 310
+DI 10.1086/679402
+PD JAN 2015
+PY 2015
+AB This essay examines four recent works that look to the history of
+   economic development with an eye to understanding the current moment of
+   global instability as well as shedding light on what the future of
+   economic development may hold. They do so by deconstructing the models
+   of economic development that have implicitly and explicitly informed our
+   theoretical frameworks, They represent important advances in historical
+   research not only for the empirical correctives they offer, but because
+   in deconstructing historical models, they in fact undermine the very
+   idea of a model, instead introducing dynamic processes with
+   indeterminate outcomes. The result is a reading of the history of
+   economic development that offers new opportunities for scholarship and
+   for politics.
+ZB 0
+ZR 0
+ZS 0
+ZA 0
+TC 1
+Z8 0
+Z9 1
+SN 0022-3816
+EI 1468-2508
+UT WOS:000350337600026
+ER
+
+PT J
+AU Matzkin, Rosa L.
+TI ESTIMATION OF NONPARAMETRIC MODELS WITH SIMULTANEITY
+SO ECONOMETRICA
+VL 83
+IS 1
+BP 1
+EP 66
+DI 10.3982/ECTA9348
+PD JAN 2015
+PY 2015
+AB We introduce methods for estimating nonparametric, nonadditive models
+   with simultaneity. The methods are developed by directly connecting the
+   elements of the structural system to be estimated with features of the
+   density of the observable variables, such as ratios of derivatives or
+   averages of products of derivatives of this density. The estimators are
+   therefore easily computed functionals of a nonparametric estimator of
+   the density of the observable variables. We consider in detail a model
+   where to each structural equation there corresponds an exclusive
+   regressor and a model with one equation of interest and one instrument
+   that is included in a second equation. For both models, we provide new
+   characterizations of observational equivalence on a set, in terms of the
+   density of the observable variables and derivatives of the structural
+   functions. Based on those characterizations, we develop two estimation
+   methods. In the first method, the estimators of the structural
+   derivatives are calculated by a simple matrix inversion and matrix
+   multiplication, analogous to a standard least squares estimator, but
+   with the elements of the matrices being averages of products of
+   derivatives of nonparametric density estimators. In the second method,
+   the estimators of the structural derivatives are calculated in two
+   steps. In a first step, values of the instrument are found at which the
+   density of the observable variables satisfies some properties. In the
+   second step, the estimators are calculated directly from the values of
+   derivatives of the density of the observable variables evaluated at the
+   found values of the instrument. We show that both pointwise estimators
+   are consistent and asymptotically normal.
+ZA 0
+ZR 0
+ZB 0
+Z8 0
+TC 7
+ZS 0
+Z9 7
+SN 0012-9682
+EI 1468-0262
+UT WOS:000349962900003
+ER
+
+PT J
+AU Hanlon, W. Walker
+TI NECESSITY IS THE MOTHER OF INVENTION: INPUT SUPPLIES AND DIRECTED
+   TECHNICAL CHANGE
+SO ECONOMETRICA
+VL 83
+IS 1
+BP 67
+EP 100
+DI 10.3982/ECTA10811
+PD JAN 2015
+PY 2015
+AB This study provides causal evidence that a shock to the relative supply
+   of inputs to production can (1) affect the direction of technological
+   progress and (2) lead to a rebound in the relative price of the input
+   that became relatively more abundant (the strong induced-bias
+   hypothesis). I exploit the impact of the U.S. Civil War on the British
+   cotton textile industry, which reduced supplies of cotton from the
+   Southern United States, forcing British producers to shift to
+   lower-quality Indian cotton. Using detailed new data, I show that this
+   shift induced the development of new technologies that augmented Indian
+   cotton. As these new technologies became available, I show that the
+   relative price of Indian/U.S. cotton rebounded to its pre-war level,
+   despite the increased relative supply of Indian cotton. This is the
+   first paper to establish both of these patterns empirically, lending
+   support to the two key predictions of leading directed technical change
+   theories.
+ZA 0
+ZR 0
+TC 16
+Z8 0
+ZS 0
+ZB 0
+Z9 16
+SN 0012-9682
+EI 1468-0262
+UT WOS:000349962900004
+ER
+
+PT J
+AU Berger, David
+   Vavra, Joseph
+TI CONSUMPTION DYNAMICS DURING RECESSIONS
+SO ECONOMETRICA
+VL 83
+IS 1
+BP 101
+EP 154
+DI 10.3982/ECTA11254
+PD JAN 2015
+PY 2015
+AB Are there times when durable spending is less responsive to economic
+   stimulus? We argue that aggregate durable expenditures respond more
+   sluggishly to economic shocks during recessions because microeconomic
+   frictions lead to declines in the frequency of households' durable
+   adjustment. We show this by first using indirect inference to estimate a
+   heterogeneous agent incomplete markets model with fixed costs of durable
+   adjustment to match consumption dynamics in PSID microdata. We then show
+   that aggregating this model delivers an extremely procyclical Impulse
+   Response Function (IRF) of durable spending to aggregate shocks. For
+   example, the response of durable spending to an income shock in 1999 is
+   estimated to be almost twice as large as if it occurred in 2009. This
+   procyclical IRF holds in response to standard business cycle shocks as
+   well as in response to various policy shocks, and it is robust to
+   general equilibrium. After estimating this robust theoretical
+   implication of micro frictions, we provide additional direct empirical
+   evidence for its importance using both cross-sectional and time-series
+   data.
+TC 23
+ZB 0
+ZR 0
+ZS 0
+Z8 0
+ZA 0
+Z9 23
+SN 0012-9682
+EI 1468-0262
+UT WOS:000349962900005
+ER
+
+PT J
+AU Reny, Philip J.
+TI A CHARACTERIZATION OF RATIONALIZABLE CONSUMER BEHAVIOR
+SO ECONOMETRICA
+VL 83
+IS 1
+BP 175
+EP 192
+DI 10.3982/ECTA12345
+PD JAN 2015
+PY 2015
+AB For an arbitrary data set D = {(p, x)} ((m)(+)\ {0}) x (m)(+), finite or
+   infinite, it is shown that the following three conditions are
+   equivalent: (a) D satisfies GARP; (b) D can be rationalized by a utility
+   function; (c) D can be rationalized by a utility function that is
+   quasiconcave, nondecreasing, and that strictly increases when all its
+   coordinates strictly increase. Examples of infinite data sets satisfying
+   GARP are provided for which every utility rationalization fails to be
+   lower semicontinuous, upper semicontinuous, or concave. Thus condition
+   (c) cannot be substantively improved upon.
+ZB 0
+Z8 0
+ZS 0
+ZR 0
+TC 9
+ZA 0
+Z9 9
+SN 0012-9682
+EI 1468-0262
+UT WOS:000349962900007
+ER
+
+PT J
+AU Sadzik, Tomasz
+   Stacchetti, Ennio
+TI AGENCY MODELS WITH FREQUENT ACTIONS
+SO ECONOMETRICA
+VL 83
+IS 1
+BP 193
+EP 237
+DI 10.3982/ECTA10656
+PD JAN 2015
+PY 2015
+AB The paper analyzes dynamic principal-agent models with short period
+   lengths. The two main contributions are: (i) an analytic
+   characterization of the values of optimal contracts in the limit as the
+   period length goes to 0, and (ii) the construction of relatively simple
+   (almost) optimal contracts for fixed period lengths. Our setting is
+   flexible and includes the pure hidden action or pure hidden information
+   models as special cases. We show how such details of the underlying
+   information structure affect the optimal provision of incentives and the
+   value of the contracts. The dependence is very tractable and we obtain
+   sharp comparative statics results. The results are derived with a novel
+   method that uses a quadratic approximation of the Pareto boundary of the
+   equilibrium value set.
+ZR 0
+ZA 0
+ZB 0
+Z8 0
+ZS 0
+TC 2
+Z9 2
+SN 0012-9682
+EI 1468-0262
+UT WOS:000349962900008
+ER
+
+PT J
+AU Kochov, Asen
+TI TIME AND NO LOTTERIES: AN AXIOMATIZATION OF MAXMIN EXPECTED UTILITY
+SO ECONOMETRICA
+VL 83
+IS 1
+BP 239
+EP 262
+DI 10.3982/ECTA10886
+PD JAN 2015
+PY 2015
+AB This paper axiomatizes an intertemporal version of the maxmin
+   expected-utility model. It employs two axioms specific to a dynamic
+   setting. The first requires that smoothing consumption across states of
+   the world is more beneficial to the individual than smoothing
+   consumption across time. Such behavior is viewed as the intertemporal
+   manifestation of ambiguity aversion. The second axiom extends Koopmans'
+   notion of stationarity from deterministic to stochastic environments.
+OI Kochov, Asen/0000-0001-8973-0496
+ZS 0
+ZA 0
+TC 5
+Z8 0
+ZR 0
+ZB 0
+Z9 5
+SN 0012-9682
+EI 1468-0262
+UT WOS:000349962900009
+ER
+
+PT J
+AU Afonso, Gara
+   Lagos, Ricardo
+TI TRADE DYNAMICS IN THE MARKET FOR FEDERAL FUNDS
+SO ECONOMETRICA
+VL 83
+IS 1
+BP 263
+EP 313
+DI 10.3982/ECTA10586
+PD JAN 2015
+PY 2015
+AB We develop a model of the market for federal funds that explicitly
+   accounts for its two distinctive features: banks have to search for a
+   suitable counterparty, and once they meet, both parties negotiate the
+   size of the loan and the repayment. The theory is used to answer a
+   number of positive and normative questions: What are the determinants of
+   the fed funds rate? How does the market reallocate funds? Is the market
+   able to achieve an efficient reallocation of funds? We also use the
+   model for theoretical and quantitative analyses of policy issues facing
+   modern central banks.
+ZA 0
+ZS 0
+ZB 0
+Z8 0
+ZR 1
+TC 51
+Z9 51
+SN 0012-9682
+EI 1468-0262
+UT WOS:000349962900010
+ER
+
+PT J
+AU Halevy, Yoram
+TI TIME CONSISTENCY: STATIONARITY AND TIME INVARIANCE
+SO ECONOMETRICA
+VL 83
+IS 1
+BP 335
+EP 352
+DI 10.3982/ECTA10872
+PD JAN 2015
+PY 2015
+AB A sequence of experiments documents static and dynamic preference
+   reversals between sooner-smaller and later-larger rewards, when the
+   sooner reward could be immediate. The theoretically motivated design
+   permits separate identification of time consistent, stationary, and time
+   invariant choices. At least half of the subjects are time consistent,
+   but only three-quarters of them exhibit stationary choices. About half
+   of subjects with time inconsistent choices have stationary preferences.
+   These results challenge the view that present-bias preferences are the
+   main source of time inconsistent choices.
+OI Halevy, Yoram/0000-0002-0638-5963
+TC 47
+Z8 0
+ZR 1
+ZB 1
+ZA 0
+ZS 0
+Z9 47
+SN 0012-9682
+EI 1468-0262
+UT WOS:000349962900012
+ER
+
+PT J
+AU Noguchi, Yuichi
+TI BAYESIAN LEARNING, SMOOTH APPROXIMATE OPTIMAL BEHAVIOR, AND CONVERGENCE
+   TO epsilon-NASH EQUILIBRIUM
+SO ECONOMETRICA
+VL 83
+IS 1
+BP 353
+EP 373
+DI 10.3982/ECTA9332
+PD JAN 2015
+PY 2015
+AB In this paper, I construct players' prior beliefs and show that these
+   prior beliefs lead the players to learn to play an approximate Nash
+   equilibrium uniformly in any infinitely repeated slightly perturbed game
+   with discounting and perfect monitoring. That is, given any epsilon > 0,
+   there exists a (single) profile of players' prior beliefs that leads
+   play to almost surely converge to an epsilon-Nash equilibrium uniformly
+   for any (finite normal form) stage game with slight payoff perturbation
+   and any discount factor less than 1.
+ZS 0
+TC 3
+ZR 0
+Z8 0
+ZA 0
+ZB 0
+Z9 3
+SN 0012-9682
+EI 1468-0262
+UT WOS:000349962900013
+ER
+
+PT J
+AU Costa-Gomes, Miguel A.
+   Shimoji, Makoto
+TI A COMMENT ON "CAN RELAXATION OF BELIEFS RATIONALIZE THE WINNER'S CURSE?:
+   AN EXPERIMENTAL STUDY"
+SO ECONOMETRICA
+VL 83
+IS 1
+BP 375
+EP 383
+DI 10.3982/ECTA11000
+PD JAN 2015
+PY 2015
+AB Ivanov, Levin, and Niederle (2010) use a common-value second-price
+   auction experiment to reject beliefs-based explanations for the winner's
+   curse. ILN's conclusion, however, stems from the misuse of theoretical
+   arguments. Beliefs-based models are even compatible with some
+   observations from ILN's experiment.
+ZR 0
+Z8 0
+ZA 0
+ZS 0
+ZB 0
+TC 4
+Z9 4
+SN 0012-9682
+EI 1468-0262
+UT WOS:000349962900014
+ER
+
+PT J
+AU Salanie, Bernard
+TI THE ECONOMETRIC SOCIETY ANNUAL REPORTS REPORT OF THE SECRETARY
+SO ECONOMETRICA
+VL 83
+IS 1
+BP 387
+EP 395
+DI 10.3982/ECTA831SEC
+PD JAN 2015
+PY 2015
+ZA 0
+ZS 0
+ZB 0
+Z8 0
+TC 0
+ZR 0
+Z9 0
+SN 0012-9682
+EI 1468-0262
+UT WOS:000349962900016
+ER
+
+PT J
+AU Salanie, Bernard
+TI THE ECONOMETRIC SOCIETY ANNUAL REPORTS REPORT OF THE TREASURER
+SO ECONOMETRICA
+VL 83
+IS 1
+BP 397
+EP 402
+DI 10.3982/ECTA831TREAS
+PD JAN 2015
+PY 2015
+ZB 0
+ZA 0
+ZR 0
+TC 0
+ZS 0
+Z8 0
+Z9 0
+SN 0012-9682
+EI 1468-0262
+UT WOS:000349962900017
+ER
+
+PT J
+AU Acemoglu, Daron
+   Einav, Liran
+   Hansen, Lars Peter
+   Jackson, Matthew O.
+   Jehiel, Philippe
+   Sobel, Joel
+   Tamer, Elie
+TI THE ECONOMETRIC SOCIETY ANNUAL REPORTS REPORT OF THE EDITORS 2013-2014
+SO ECONOMETRICA
+VL 83
+IS 1
+BP 403
+EP 406
+DI 10.3982/ECTA831EDS
+PD JAN 2015
+PY 2015
+RI Jehiel, Philippe/AAG-2354-2020
+TC 0
+ZA 0
+ZS 0
+ZB 0
+Z8 0
+ZR 0
+Z9 0
+SN 0012-9682
+EI 1468-0262
+UT WOS:000349962900018
+ER
+
+PT J
+AU Andrews, Donald W. K.
+   Ely, Jeffrey C.
+TI THE ECONOMETRIC SOCIETY ANNUAL REPORTS REPORT OF THE EDITORS OF THE
+   MONOGRAPH SERIES
+SO ECONOMETRICA
+VL 83
+IS 1
+BP 417
+EP 419
+DI 10.3982/ECTA831MONO
+PD JAN 2015
+PY 2015
+ZS 0
+ZB 0
+ZA 0
+Z8 0
+ZR 0
+TC 0
+Z9 0
+SN 0012-9682
+EI 1468-0262
+UT WOS:000349962900020
+ER
+
+PT J
+AU Gandhi, Amit
+   Serrano-Padial, Ricardo
+TI Does Belief Heterogeneity Explain Asset Prices: The Case of the Longshot
+   Bias
+SO REVIEW OF ECONOMIC STUDIES
+VL 82
+IS 1
+BP 156
+EP 186
+DI 10.1093/restud/rdu017
+PD JAN 2015
+PY 2015
+AB This article studies belief heterogeneity in a benchmark competitive
+   asset market: a market for Arrow-Debreu securities. We show that
+   differences in agents' beliefs lead to a systematic pricing pattern, the
+   favourite-longshot bias (FLB): securities with a low-pay-out probability
+   are overpriced, whereas securities with high probability pay-out are
+   underpriced. We apply demand estimation techniques to betting market
+   data, and find that the observed FLB is explained by a two-type
+   population consisting of canonical traders, who hold virtually correct
+   beliefs and are the majority type in the population (70%); and noise
+   traders exhibiting significant belief dispersion. Furthermore,
+   exploiting variation in public information across markets in our data
+   set, we show that our belief heterogeneity model empirically outperforms
+   existing preference-based explanations of the FLB.
+TC 13
+ZA 0
+ZS 0
+ZB 0
+Z8 0
+ZR 0
+Z9 13
+SN 0034-6527
+EI 1467-937X
+UT WOS:000350114400005
+ER
+
+PT J
+AU Caliendo, Lorenzo
+   Parro, Fernando
+TI Estimates of the Trade and Welfare Effects of NAFTA
+SO REVIEW OF ECONOMIC STUDIES
+VL 82
+IS 1
+BP 1
+EP 44
+DI 10.1093/restud/rdu035
+PD JAN 2015
+PY 2015
+AB We build into a Ricardian model sectoral linkages, trade in intermediate
+   goods, and sectoral heterogeneity in production to quantify the trade
+   and welfare effects from tariff changes. We also propose a new method to
+   estimate sectoral trade elasticities consistent with any trade model
+   that delivers a multiplicative gravity equation. We apply our model and
+   use our estimated elasticities to identify the impact of NAFTA's tariff
+   reductions. We find that Mexico's welfare increases by 1.31%, U.S.'s
+   welfare increases by 0.08%, and Canada's welfare declines by 0.06%. We
+   find that intra-bloc trade increases by 118% for Mexico, 11% for Canada,
+   and 41% for the U.S. We show that welfare effects from tariff reductions
+   are reduced when the structure of production does not take into account
+   intermediate goods or input-output linkages. Our results highlight the
+   importance of sectoral heterogeneity, intermediate goods, and sectoral
+   linkages for the quantification of the welfare gains from tariffs
+   reductions.
+ZB 1
+ZS 2
+ZR 0
+Z8 0
+TC 195
+ZA 1
+Z9 198
+SN 0034-6527
+EI 1467-937X
+UT WOS:000350114400001
+ER
+
+PT J
+AU Blake, Thomas
+   Nosko, Chris
+   Tadelis, Steven
+TI CONSUMER HETEROGENEITY AND PAID SEARCH EFFECTIVENESS: A LARGE-SCALE
+   FIELD EXPERIMENT
+SO ECONOMETRICA
+VL 83
+IS 1
+BP 155
+EP 174
+DI 10.3982/ECTA12423
+PD JAN 2015
+PY 2015
+AB Internet advertising has been the fastest growing advertising channel in
+   recent years, with paid search ads comprising the bulk of this revenue.
+   We present results from a series of large-scale field experiments done
+   at eBay that were designed to measure the causal effectiveness of paid
+   search ads. Because search clicks and purchase intent are correlated, we
+   show that returns from paid search are a fraction of non-experimental
+   estimates. As an extreme case, we show that brand keyword ads have no
+   measurable short-term benefits. For non-brand keywords, we find that new
+   and infrequent users are positively influenced by ads but that more
+   frequent users whose purchasing behavior is not influenced by ads
+   account for most of the advertising expenses, resulting in average
+   returns that are negative.
+TC 75
+Z8 0
+ZA 0
+ZR 0
+ZB 1
+ZS 0
+Z9 75
+SN 0012-9682
+EI 1468-0262
+UT WOS:000349962900006
+ER
+
+PT J
+AU Pakes, A.
+   Porter, J.
+   Ho, Kate
+   Ishii, Joy
+TI MOMENT INEQUALITIES AND THEIR APPLICATION
+SO ECONOMETRICA
+VL 83
+IS 1
+BP 315
+EP 334
+DI 10.3982/ECTA6865
+PD JAN 2015
+PY 2015
+AB This paper provides conditions under which the inequality constraints
+   generated by either single agent optimizing behavior or the best
+   response condition of multiple agent problems can be used as a basis for
+   estimation and inference. An application illustrates how the use of
+   these inequality constraints can simplify the analysis of complex
+   behavioral models.
+ZB 0
+ZS 0
+ZR 0
+Z8 0
+TC 48
+ZA 0
+Z9 48
+SN 0012-9682
+EI 1468-0262
+UT WOS:000349962900011
+ER
+
+PT J
+AU [Anonymous]
+TI THE ECONOMETRIC SOCIETY ANNUAL REPORTS ECONOMETRICA REFEREES 2013-2014
+SO ECONOMETRICA
+VL 83
+IS 1
+BP 407
+EP 416
+DI 10.3982/ECTA831REF
+PD JAN 2015
+PY 2015
+ZA 0
+TC 0
+ZR 0
+ZS 0
+ZB 0
+Z8 0
+Z9 0
+SN 0012-9682
+EI 1468-0262
+UT WOS:000349962900019
+ER
+
+PT J
+AU Dowling, Conor M.
+   Wichowsky, Amber
+TI Attacks without Consequence? Candidates, Parties, Groups, and the
+   Changing Face of Negative Advertising
+SO AMERICAN JOURNAL OF POLITICAL SCIENCE
+VL 59
+IS 1
+BP 19
+EP 36
+DI 10.1111/ajps.12094
+PD JAN 2015
+PY 2015
+AB Prior work finds that voters punish candidates for sponsoring attack
+   ads. What remains unknown is the extent to which a negative ad is more
+   effective if it is sponsored by a party or an independent group instead.
+   We conducted three experiments in which we randomly assigned
+   participants to view a negative ad that was identical except for its
+   sponsor. We find that candidates can benefit from having a party or
+   group do their dirty work, but particularly if a group does, and that
+   the most likely explanation for why this is the case is that many voters
+   simply do not connect candidates to the ads sponsored by parties and
+   groups. We also find that in some circumstances, a group-sponsored
+   attack ad produces less polarization than one sponsored by a party. We
+   conclude by discussing the implications our research has for current
+   debates about the proper role of independent groups in electoral
+   politics.
+ZR 0
+ZB 0
+Z8 0
+TC 41
+ZS 3
+ZA 0
+Z9 44
+SN 0092-5853
+EI 1540-5907
+UT WOS:000347897800002
+ER
+
+PT J
+AU Aragones, Enriqueta
+   Castanheira, Micael
+   Giani, Marco
+TI Electoral Competition through Issue Selection
+SO AMERICAN JOURNAL OF POLITICAL SCIENCE
+VL 59
+IS 1
+BP 71
+EP 90
+DI 10.1111/ajps.12120
+PD JAN 2015
+PY 2015
+AB Politics must address multiple problems simultaneously. In an ideal
+   world, political competition would force parties to adopt priorities
+   that reflect the voters' true concerns. In reality, parties can run
+   their campaigns in such a way as to manipulate voters' priorities. This
+   phenomenon, known as priming, may allow parties to underinvest in
+   solving the issues that they intend to mute. We develop a model of
+   endogenous issue ownership in which two vote-seeking parties (a) invest
+   in policy quality to increase the value of their platform and (b) choose
+   a communication strategy to prime voters. We identify novel feedback
+   between communication and investment. In particular, we find that
+   stronger priming effects can constrain parties to invest more resources
+   in all issues. We also identify the conditions under which parties
+   prefer to focus on their historical issues or to engage in issue
+   stealing.
+RI Giani, Marco/AAN-4231-2020; Castanheira, Micael/
+OI Giani, Marco/0000-0001-9510-0538; Castanheira,
+   Micael/0000-0002-3511-9947
+Z8 0
+ZS 0
+ZA 0
+ZB 0
+ZR 0
+TC 15
+Z9 15
+SN 0092-5853
+EI 1540-5907
+UT WOS:000347897800005
+ER
+
+PT J
+AU Gehlbach, Scott
+   Simpser, Alberto
+TI Electoral Manipulation as Bureaucratic Control
+SO AMERICAN JOURNAL OF POLITICAL SCIENCE
+VL 59
+IS 1
+BP 212
+EP 224
+DI 10.1111/ajps.12122
+PD JAN 2015
+PY 2015
+AB Bureaucratic compliance is often crucial for political survival, yet
+   eliciting that compliance in weakly institutionalized environments
+   requires that political principals convince agents that their hold on
+   power is secure. We provide a formal model to show that electoral
+   manipulation can help to solve this agency problem. By influencing
+   beliefs about a ruler's hold on power, manipulation can encourage a
+   bureaucrat to work on behalf of the ruler when he would not otherwise do
+   so. This result holds under various common technologies of electoral
+   manipulation. Manipulation is more likely when the bureaucrat is
+   dependent on the ruler for his career and when the probability is high
+   that even generally unsupportive citizens would reward bureaucratic
+   effort. The relationship between the ruler's expected popularity and the
+   likelihood of manipulation, in turn, depends on the technology of
+   manipulation.
+ZB 0
+TC 32
+Z8 0
+ZS 0
+ZR 0
+ZA 0
+Z9 32
+SN 0092-5853
+EI 1540-5907
+UT WOS:000347897800013
+ER
+
+PT J
+AU Davenport, Tiffany C.
+TI Policy-Induced Risk and Responsive Participation: The Effect of a Son's
+   Conscription Risk on the Voting Behavior of His Parents
+SO AMERICAN JOURNAL OF POLITICAL SCIENCE
+VL 59
+IS 1
+BP 225
+EP 241
+DI 10.1111/ajps.12117
+PD JAN 2015
+PY 2015
+AB When do government policies induce responsive political participation?
+   This study tests two hypotheses in the context of military draft
+   policies. First, policy-induced risk motivates political participation.
+   Second, contextual-level moderators, such as local events that make risk
+   particularly salient, may intensify the effect of risk on participation.
+   I use the random assignment of induction priority in the Vietnam draft
+   lotteries to measure the effect of a son's draft risk on the voter
+   turnout of his parents in the 1972 presidential election. I find higher
+   rates of turnout among parents of men with losing draft lottery numbers.
+   Among parents from towns with at least one prior war casualty, I find a
+   7 to 9 percentage point effect of a son's draft risk on his parents'
+   turnout. The local casualty contextual-level moderator is theorized to
+   operate through the mechanism of an availability heuristic, whereby
+   parents from towns with casualties could more readily imagine the
+   adverse consequences of draft risk.
+ZR 0
+ZS 0
+ZB 0
+TC 7
+ZA 0
+Z8 0
+Z9 7
+SN 0092-5853
+EI 1540-5907
+UT WOS:000347897800014
+ER
+
+PT J
+AU Kelley, Judith G.
+   Simmons, Beth A.
+TI Politics by Number: Indicators as Social Pressure in International
+   Relations
+SO AMERICAN JOURNAL OF POLITICAL SCIENCE
+VL 59
+IS 1
+BP 55
+EP 70
+DI 10.1111/ajps.12119
+PD JAN 2015
+PY 2015
+AB The ability to monitor state behavior has become a critical tool of
+   international governance. Systematic monitoring allows for the creation
+   of numerical indicators that can be used to rank, compare, and
+   essentially censure states. This article argues that the ability to
+   disseminate such numerical indicators widely and instantly constitutes
+   an exercise of social power, with the potential to change important
+   policy outputs. It explores this argument in the context of the United
+   States' efforts to combat trafficking in persons and find evidence that
+   monitoring has important effects: Countries are more likely to
+   criminalize human trafficking when they are included in the U.S. annual
+   Trafficking in Persons Report, and countries that are placed on a watch
+   list are also more likely to criminalize. These findings have broad
+   implications for international governance and the exercise of soft power
+   in the global information age.
+ZA 0
+ZS 0
+ZB 1
+TC 101
+ZR 0
+Z8 0
+Z9 101
+SN 0092-5853
+EI 1540-5907
+UT WOS:000347897800004
+ER
+
+PT J
+AU Dickson, Eric S.
+   Gordon, Sanford C.
+   Huber, Gregory A.
+TI Institutional Sources of Legitimate Authority: An Experimental
+   Investigation
+SO AMERICAN JOURNAL OF POLITICAL SCIENCE
+VL 59
+IS 1
+BP 109
+EP 127
+DI 10.1111/ajps.12139
+PD JAN 2015
+PY 2015
+AB Unelected officials with coercive powers (e.g., police, prosecutors,
+   bureaucrats) vary markedly in the extent to which citizens view their
+   actions as legitimate. We explore the institutional determinants of
+   legitimate authority in the context of a public goods laboratory
+   experiment. In the experiment, an authority can target one citizen for
+   punishment following citizen contribution choices. Untargeted citizens
+   can then choose to help or hinder the authority. This latter choice may
+   be interpreted as a behavioral measure of the authority's legitimacy. We
+   find that legitimacy is affected by how authorities are compensated, the
+   transparency with which their decisions are observed, and an interaction
+   between these. When transparency is high, citizens are more willing to
+   assist authorities who receive fixed salaries than those who personally
+   benefit from collected penalties, even when citizens' material
+   incentives are controlled for. Lower transparency reduces support, but
+   only for salaried enforcers.
+RI Huber, Gregory/A-5950-2012
+OI Huber, Gregory/0000-0001-6804-8148
+Z8 0
+ZS 0
+ZA 0
+ZB 0
+ZR 0
+TC 14
+Z9 14
+SN 0092-5853
+EI 1540-5907
+UT WOS:000347897800007
+ER
+
+PT J
+AU Collard-Wexler, Allan
+   De Loecker, Jan
+TI Reallocation and Technology: Evidence from the US Steel Industry
+SO AMERICAN ECONOMIC REVIEW
+VL 105
+IS 1
+BP 131
+EP 171
+DI 10.1257/aer.20130090
+PD JAN 2015
+PY 2015
+AB We measure the impact of a drastic new technology for producing
+   steel-the minimill-on industry-wide productivity in the US steel
+   industry, using unique plant-level data between 1963 and 2002. The sharp
+   increase in the industry's productivity is linked to this new technology
+   through two distinct mechanisms: (i) the mere displacement of the older
+   technology (vertically integrated producers) was responsible for a third
+   of the increase in the industry's productivity, and (ii) increased
+   competition, due the minimill expansion, drove a productivity resurgence
+   at the surviving vertical integrated producers and, consequently, the
+   productivity of the industry as a whole.
+TC 29
+ZB 0
+ZR 1
+ZS 0
+ZA 0
+Z8 0
+Z9 29
+SN 0002-8282
+EI 1944-7981
+UT WOS:000347464300005
+ER
+
+PT J
+AU Ketcham, Jonathan D.
+   Lucarelli, Claudio
+   Powers, Christopher A.
+TI Paying Attention or Paying Too Much in Medicare Part D
+SO AMERICAN ECONOMIC REVIEW
+VL 105
+IS 1
+BP 204
+EP 233
+DI 10.1257/aer.20120651
+PD JAN 2015
+PY 2015
+AB We study whether people became less likely to switch Medicare
+   prescription drug plans (PDPs) due to more options and more time in Part
+   D. Panel data for a random 20 percent sample of enrollees from 2006-2010
+   show that 50 percent were not in their original PDPs by 2010.
+   Individuals switched PDPs in response to higher costs of their status
+   quo plans, saving them money. Contrary to choice overload, larger choice
+   sets increased switching unless the additional plans were relatively
+   expensive. Neither switching overall nor responsiveness to costs
+   declined over time, and above-minimum spending in 2010 remained below
+   the 2006 and 2007 levels.
+TC 20
+ZB 0
+ZA 0
+Z8 0
+ZS 0
+ZR 0
+Z9 20
+SN 0002-8282
+EI 1944-7981
+UT WOS:000347464300007
+PM 29542312
+ER
+
+PT J
+AU Hafner-Burton, Emilie M.
+   Mansfield, Edward D.
+   Pevehouse, Jon C. W.
+TI Human Rights Institutions, Sovereignty Costs and Democratization
+SO BRITISH JOURNAL OF POLITICAL SCIENCE
+VL 45
+IS 1
+BP 1
+EP 27
+DI 10.1017/S0007123413000240
+PD JAN 2015
+PY 2015
+AB Why do countries join international human rights institutions, when
+   membership often yields few material gains and constrains state
+   sovereignty? This article argues that entering a human rights
+   institution can yield substantial benefits for democratizing states.
+   Emerging democracies can use the 'sovereignty costs' associated with
+   membership to lock in liberal policies and signal their intent to
+   consolidate democracy. It also argues, however, that the magnitude of
+   these costs varies across different human rights institutions, which
+   include both treaties and international organizations. Consistent with
+   this argument, the study finds that democratizing states tend to join
+   human rights institutions that impose greater constraints on state
+   sovereignty.
+ZB 0
+TC 15
+ZA 0
+ZS 0
+ZR 0
+Z8 0
+Z9 15
+SN 0007-1234
+EI 1469-2112
+UT WOS:000346237200001
+ER
+
+PT J
+AU Hariri, Jacob Gerner
+TI Foreign Aided: Why Democratization Brings Growth When Democracy Does Not
+SO BRITISH JOURNAL OF POLITICAL SCIENCE
+VL 45
+IS 1
+BP 53
+EP 71
+DI 10.1017/S0007123413000276
+PD JAN 2015
+PY 2015
+AB There is an unresolved puzzle in research on the economics of democracy.
+   While there is consensus that democracy is not generally associated with
+   higher rates of economic growth, recent studies have found that
+   democratization is followed by growth. But why should becoming a
+   democracy bring growth if being one does not? This article shows that a
+   substantial and immediate influx of foreign aid into new democracies
+   accounts for the positive growth effect of democratization. The domestic
+   regime characteristics of neither democracy nor democratization
+   therefore seems to bring growth. The importance of aid in explaining the
+   democratization-growth nexus underscores that democratizations do not
+   occur in vacuum and cannot be fully understood from internal factors
+   alone.
+OI Hariri, Jacob Gerner/0000-0002-0176-9749
+ZR 0
+TC 2
+Z8 0
+ZB 0
+ZS 0
+ZA 0
+Z9 2
+SN 0007-1234
+EI 1469-2112
+UT WOS:000346237200003
+ER
+
+PT J
+AU Potter, Joshua D.
+   Tavits, Margit
+TI The Impact of Campaign Finance Laws on Party Competition
+SO BRITISH JOURNAL OF POLITICAL SCIENCE
+VL 45
+IS 1
+BP 73
+EP 95
+DI 10.1017/S0007123413000227
+PD JAN 2015
+PY 2015
+AB The comparative literature on party systems has convincingly
+   demonstrated that electoral rules, social cleavages and their
+   interaction can explain much of the cross-national variation in the size
+   of party systems. This literature, however, has thus far ignored
+   campaign finance laws. This article argues that various campaign finance
+   laws exert more or less restrictive pressures on party competition. It
+   develops a new theoretical concept, fund parity. The study demonstrates
+   the positive relationship between fund parity and party system size and
+   employs additional tests to supplement the regression analysis in order
+   to account for potential endogeneity issues. The findings underscore an
+   intuitive - but heretofore untested - relationship: increasing parity
+   makes party competition more permissive and increases the size of the
+   party system.
+Z8 0
+ZS 1
+TC 8
+ZB 0
+ZA 0
+ZR 0
+Z9 9
+SN 0007-1234
+EI 1469-2112
+UT WOS:000346237200004
+ER
+
+PT J
+AU Toubeau, Simon
+   Wagner, Markus
+TI Explaining Party Positions on Decentralization
+SO BRITISH JOURNAL OF POLITICAL SCIENCE
+VL 45
+IS 1
+BP 97
+EP 119
+DI 10.1017/S0007123413000239
+PD JAN 2015
+PY 2015
+AB Debates about decentralization raise cultural questions of identity and
+   economic questions of redistribution and efficiency. Therefore the
+   preferences of statewide parties regarding decentralization are related
+   to their positions on the economic and cultural ideological dimensions.
+   A statistical analysis using data from thirty-one countries confirms
+   this: parties on the economic right are more supportive of
+   decentralization than parties on the economic left, while culturally
+   liberal parties favour decentralization more than culturally
+   conservative parties. However, country context - specifically the degree
+   of regional self-rule, the extent of regional economic disparity and the
+   ideology of regionalist parties - determines whether and how
+   decentralization is linked to the two dimensions. These findings have
+   implications for our understanding of the politics of decentralization
+   by showing how ideology, rooted in a specific country context, shapes
+   the 'mindset' of agents responsible for determining the territorial
+   distribution of power.
+OI Toubeau, Simon/0000-0002-2738-9293
+ZR 0
+Z8 0
+ZB 0
+ZS 0
+ZA 0
+TC 17
+Z9 17
+SN 0007-1234
+EI 1469-2112
+UT WOS:000346237200005
+ER
+
+PT J
+AU Ceron, Andrea
+TI The Politics of Fission: An Analysis of Faction Breakaways among Italian
+   Parties (1946-2011)
+SO BRITISH JOURNAL OF POLITICAL SCIENCE
+VL 45
+IS 1
+BP 121
+EP 139
+DI 10.1017/S0007123413000215
+PD JAN 2015
+PY 2015
+AB This article investigates intra-party politics and explores the
+   determinants of factional breakaways, going beyond the unitary actor
+   assumption. It presents a game-theoretic model that focuses on
+   intra-party competition and bargaining dynamics to analyse the interplay
+   between party leaders and minority factions. It tests several hypotheses
+   based on the formal model using a new dataset that contains information
+   about the strength and policy positions of factions inside Italian
+   parties, from 1946 to 2011, measured through quantitative content
+   analysis of motions presented during party congresses. The results show
+   that office, policy and electoral motives influence factions' decisions
+   to break away. Other elements - such as intra-party democracy, the
+   electoral system and party system competitiveness - also affect leaders'
+   attitudes toward compromising and alter the likelihood of a split.
+ZS 0
+ZA 0
+TC 28
+Z8 0
+ZR 0
+ZB 0
+Z9 28
+SN 0007-1234
+EI 1469-2112
+UT WOS:000346237200006
+ER
+
+PT J
+AU Kenny, Paul D.
+TI The Origins of Patronage Politics: State Building, Centrifugalism, and
+   Decolonization
+SO BRITISH JOURNAL OF POLITICAL SCIENCE
+VL 45
+IS 1
+BP 141
+EP 171
+DI 10.1017/S000712341300015X
+PD JAN 2015
+PY 2015
+AB This article develops a two-part theory that accounts for both the
+   origins and the persistence of patronage politics. First, greater
+   centrifugal and disintegrative pressures at key moments in the
+   state-building process give local elites more opportunity to
+   institutionalize patronage at the subnational level. Second,
+   decentralized patronage systems are more resistant to reform than
+   centralized ones. Case studies of India and Ceylon illustrate how
+   variation in centrifugal pressures allowed subnational elites to capture
+   the state in the former but not the latter. Further data from the
+   British Empire shows that greater centrifugal pressures faced by British
+   colonies at the time of decolonization are correlated with the
+   persistence of higher levels of patronage over time.
+RI Kenny, Paul/R-3082-2019
+OI Kenny, Paul/0000-0001-6960-7167
+ZS 1
+Z8 0
+ZB 0
+ZR 0
+TC 9
+ZA 0
+Z9 10
+SN 0007-1234
+EI 1469-2112
+UT WOS:000346237200007
+ER
+
+PT J
+AU Heath, Oliver
+TI Policy Representation, Social Representation and Class Voting in Britain
+SO BRITISH JOURNAL OF POLITICAL SCIENCE
+VL 45
+IS 1
+BP 173
+EP 193
+DI 10.1017/S0007123413000318
+PD JAN 2015
+PY 2015
+AB Why does the strength of class voting vary over time? Recent research
+   has emphasized factors related to the structure of political choice at
+   the party level. This article examines different aspects of this choice,
+   and investigates whether voters are more likely to respond to the social
+   or policy cues that parties send voters. The results from the British
+   context suggest that the former are more important than the latter. The
+   central implication of this finding is that social representation
+   matters, and that the social background of political representatives
+   influences how voters relate to political parties.
+OI Heath, Oliver/0000-0002-1350-3040
+ZA 0
+ZR 0
+ZS 0
+ZB 0
+Z8 0
+TC 18
+Z9 18
+SN 0007-1234
+EI 1469-2112
+UT WOS:000346237200008
+ER
+
+PT J
+AU Stevens, Daniel
+   Allen, Barbara
+   Sullivan, John
+   Lawrence, Eric
+TI Fair's Fair? Principles, Partisanship, and Perceptions of the Fairness
+   of Campaign Rhetoric
+SO BRITISH JOURNAL OF POLITICAL SCIENCE
+VL 45
+IS 1
+BP 195
+EP 213
+DI 10.1017/S0007123413000045
+PD JAN 2015
+PY 2015
+AB This article considers the role of principles in perceptions of what
+   constitutes acceptable rhetoric in election campaigns. Previous research
+   suggests that citizens use principles of what is an acceptable attack in
+   campaigns when evaluating charges and countercharges, while
+   acknowledging that under some circumstances citizens accept rhetoric
+   that would seem to breach their principles. This research has not
+   adequately considered how partisanship can affect a respondent's
+   proclivity to call upon principles in assessing campaign rhetoric. This
+   article draws on three original surveys to test competing models of the
+   role of partisanship and finds robust results in support of a strong
+   partisan bias. It concludes that it is not that citizens are resilient
+   to violations of their principles, but that nearly the opposite is the
+   case: citizens' sensitivity to attacks on their preferred candidate
+   leads them to take a very partial view of when to apply their principles
+   faithfully to a judgment and when not to.
+OI Lawrence, Eric/0000-0002-5018-1351
+ZS 0
+ZB 0
+TC 1
+Z8 0
+ZR 0
+ZA 0
+Z9 1
+SN 0007-1234
+EI 1469-2112
+UT WOS:000346237200009
+ER
+
+PT J
+AU Erman, Eva
+   Moeller, Niklas
+TI Political Legitimacy in the Real Normative World: The Priority of
+   Morality and the Autonomy of the Political
+SO BRITISH JOURNAL OF POLITICAL SCIENCE
+VL 45
+IS 1
+BP 215
+EP 233
+DI 10.1017/S0007123413000148
+PD JAN 2015
+PY 2015
+AB According to what has recently been labeled 'political realism' in
+   political theory, 'political moralists' such as Rawls and Dworkin
+   misconstrue the political domain by presuming that morality has priority
+   over politics, thus overlooking that the political is an autonomous
+   domain with its own distinctive conditions and normative sources.
+   Political realists argue that this presumption, commonly referred to as
+   the 'ethics first premise', has to be abandoned in order to properly
+   theorize a normative conception of political legitimacy. This article
+   critically examines two features of political realism, which so far have
+   received too little systematic philosophical analysis: the political
+   realist critique of political moralism and the challenges facing
+   political realism in its attempt to offer an alternative account of
+   political legitimacy. Two theses are defended. First, to the extent that
+   proponents of political realism wish to hold onto a normative conception
+   of political legitimacy, refuting wholesale the ethics first premise
+   leads to a deadlock, since it throws the baby out with the bathwater by
+   closing the normative space upon which their account of political
+   legitimacy relies. This is called the 'necessity thesis': all coherent
+   and plausible conceptions of political legitimacy must hold onto the
+   ethics first premise. Secondly, accepting this premise - and thus
+   defending an ethics first view - does not entail that the political
+   domain must be seen as a subordinate arena for the application of moral
+   principles, that political normativity is reduced to morality or that
+   morality trumps other reasons in political decision making, as claimed
+   by political realists. Rather, the ethics first view is compatible with
+   an autonomous political domain that makes room for an account of
+   political legitimacy that is defined by and substantiated from sources
+   of normativity specifically within the political. This is called the
+   'compatibility thesis'.
+ZR 0
+Z8 0
+ZB 0
+TC 16
+ZA 0
+ZS 0
+Z9 16
+SN 0007-1234
+EI 1469-2112
+UT WOS:000346237200010
+ER
+
+PT J
+AU Reuter, Ora John
+   Szakonyi, David
+TI Online Social Media and Political Awareness in Authoritarian Regimes
+SO BRITISH JOURNAL OF POLITICAL SCIENCE
+VL 45
+IS 1
+BP 29
+EP 51
+DI 10.1017/S0007123413000203
+PD JAN 2015
+PY 2015
+AB Do online social media undermine authoritarianism? The conditions under
+   which online social networks can increase public awareness of electoral
+   fraud in non-democracies are examined in this article and it is argued
+   that a given online social network will only increase political
+   awareness if it is first politicized by elites. Survey data from the
+   2011 Russian parliamentary elections show that usage of Twitter and
+   Facebook, which were politicized by opposition elites, significantly
+   increased respondents' perceptions of electoral fraud, while usage of
+   Russia's domestic social networking platforms, VKontakte and
+   Odnoklassniki, which were not politicized by opposition activists, had
+   no effect on perceptions of fraud. This study elucidates the causes of
+   post-election protest by uncovering a mechanism through which knowledge
+   of electoral fraud spreads.
+RI Szakonyi, David/X-7723-2018; Reuter, Ora John/V-3170-2019
+OI Szakonyi, David/0000-0002-3796-0297; 
+ZR 1
+ZB 0
+TC 39
+ZA 0
+ZS 1
+Z8 0
+Z9 40
+SN 0007-1234
+EI 1469-2112
+UT WOS:000346237200002
+ER
+
+PT J
+AU Giron, Alicia
+   Solorza, Marcia
+TI "Deja vu" History The European Crisis and Lessons from Latin America
+   through the Glass of Financialization and Austerity Measures
+SO INTERNATIONAL JOURNAL OF POLITICAL ECONOMY
+VL 44
+IS 1
+BP 32
+EP 50
+DI 10.1080/08911916.2015.1035989
+PD 2015
+PY 2015
+AB The scope of the current European crisis calls for a rereading of
+   mainstream economic theory. Europe is experiencing a "deja vu" history
+   through which Latin America has already lived. The recurrent crises from
+   the 1970s up to the Lehman Brothers bankruptcy are manifestations of the
+   financialization process and relate to its different facets. The
+   objective of this article is to analyze financialization in the current
+   economic and financial crisis in Europe as well as its role in the Latin
+   American debt crisis. A heterodox perspective is necessary to understand
+   this long process of economic deterioration and discern the global
+   fragility of the current financial system. An explanation of the
+   structural crisis in the Eurozone implies an understanding of the
+   financial and monetary agreements laid out in the Maastricht Treaty and
+   the position of the Central Bank with regard to financial markets.
+   Today, financial investors have been especially attuned to interest rate
+   risks and profitability in the international financial system, in the
+   same way that transnational banks owned Latin American sovereign debt
+   years before.
+Z8 0
+ZS 1
+ZA 0
+ZB 0
+TC 3
+ZR 0
+Z9 4
+SN 0891-1916
+EI 1558-0970
+UT WOS:000211046600004
+ER
+
+PT J
+AU Budish, Eric
+   Roin, Benjamin N
+   Williams, Heidi
+TI Do Firms Underinvest in Long-Term Research? Evidence from Cancer
+   Clinical Trials.
+SO The American economic review
+VL 105
+IS 7
+BP 2044
+EP 85
+PD 2015-07
+PY 2015
+AB We investigate whether private research investments are distorted away
+   from long-term projects. Our theoretical model highlights two potential
+   sources of this distortion: short-termism and the fixed patent term. Our
+   empirical context is cancer research, where clinical trials--and hence,
+   project durations--are shorter for late-stage cancer treatments relative
+   to early-stage treatments or cancer prevention. Using newly constructed
+   data, we document several sources of evidence that together show private
+   research investments are distorted away from long-term projects. The
+   value of life-years at stake appears large. We analyze three potential
+   policy responses: surrogate (non-mortality) clinical-trial endpoints,
+   targeted R&D subsidies,and patent design.
+ZS 0
+Z8 0
+ZR 0
+TC 0
+ZB 0
+Z9 0
+SN 0002-8282
+UT MEDLINE:29543421
+PM 29543421
+ER
+
+EF
